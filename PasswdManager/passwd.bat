@@ -1,2 +1,2 @@
 @echo off
-"C:/bin/PasswdManager.exe"
+"C:\bin\PasswdManager.exe"
