@@ -15,3 +15,9 @@ make
 ```sh
 ./PasswdManager
 ```
+
+## How to Compile
+
+```sh
+g++ -I../include -o PasswdManager main.cpp PasswdManager.cpp
+```
